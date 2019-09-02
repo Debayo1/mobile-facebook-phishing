@@ -1,0 +1,175 @@
+html {font-family:arial;
+}
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {display:none;}
+
+* {margin:0 auto;
+	padding:0 auto;
+	box-sizing:border-box;
+}
+
+
+
+h2 {
+color:#ffffff;
+	background-color:#3b5998;
+	padding:10px;
+	text-align:center;
+}
+
+
+
+.sugg {background-color:#FFFACD;
+		color:#3b5998;
+		padding:15px;
+		text-align:center;
+		position:relative;
+		font-size:15px;
+}
+
+
+
+#mobile {
+position:absolute;
+		top:8px;
+		right:335px;
+}
+
+
+
+.main {
+margin-top:20px;
+		text-align:center;
+}
+
+
+
+input {width:320px;
+		padding:15px;
+		border:1px solid rgb(180, 180, 180);
+}
+
+
+
+.one {border-top-left-radius:5px;
+		border-top-right-radius:5px;
+		border-bottom:none;
+}
+
+
+
+.two {border-bottom-right-radius:3px;
+		border-bottom-left-radius:3px;
+        margin-left:-4px;}
+
+
+
+.Continue {
+text-align:center;
+		margin-top:15px;
+}
+
+
+
+.continuebutt {
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+display:inline-block;
+			background: #2A49A5;
+			border: 1px solid #082783;
+			box-shadow: 0 1px #4C6BC7 inset;
+			color: white;
+    padding: 3px 5px;
+    margin-right:60px;
+    position: absolute;
+			text-decoration: none;
+			text-shadow: 0 -1px 0 #082783;
+			font: 12px Verdana, sans-serif;
+}
+
+
+
+.cancelbutt {
+-moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+display:inline-block;
+			background: green;
+			border: 1px solid #082783;
+			box-shadow: 0 1px #4C6BC7 inset;
+			color: white;
+    padding: 3px 5px;
+    margin-left:60px;
+    position: absolute;
+			text-decoration: none;
+			text-shadow: 0 -1px 0 #082783;
+			font: 12px Verdana, sans-serif;
+}
+
+
+
+.alternative {text-align:center;
+			margin-top:10px;
+			color:rgb(120, 120, 120);
+}
+
+
+
+.Cancel {text-align:center;
+		margin-top:20px;
+}
+                
+
+
+.Profileimg {text-align:center;}
+
+
+
+.wrapper {text-align:center;
+		display:inline-block;
+		top:88%;
+		left:33%;
+		position:absolute;
+
+}
+                
+
+
+Profileimg {text-align:center;}
+
+
+
+h3 {text-align:center;}
+
+
+
+h5 {color:black;
+	text-align:center;
+}
+
+
+
+a:link {color:#3b5998;}
+
+
+
+a:visited {color:purple;}
+
+
+
+a {text-decoration:none;}
+
+
+
+footer {text-align:center;
+		position:fixed;
+		width:100%;
+		bottom:0;
+
+		margin-top:150px;
+		font-size:15px;
+		color:white;
+
+		background-color:#3b5998
+}
