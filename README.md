@@ -1,5 +1,5 @@
 # facebook-phishing
-WORKING!!! Mobile Facebook Phishing Page
+Mobile Facebook Phishing Page
 
 Usage:
 Upload HTML/CSS/PHP to your Webhost
